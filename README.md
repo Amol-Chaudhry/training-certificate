@@ -1,1 +1,1 @@
-# training-certificate
+# Internship Certificate
